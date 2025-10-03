@@ -11,7 +11,7 @@ A modern and efficient contact management system built with Java Spring Boot bac
 - 🎨 Modern and intuitive user interface 
 - 📊 Efficient data management
 - 🔄 Real-time updates 
-
+ 
 ## 🛠️ Tech Stack
  
 ### Backend
