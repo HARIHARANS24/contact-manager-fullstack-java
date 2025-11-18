@@ -7,7 +7,7 @@ A modern and efficient contact management system built with Java Spring Boot bac
 - ✨ Create, Read, Update, and Delete contacts
 - 🔍 Search and filter contacts
 - 📱 Responsive design for all devices
-- 🔒 Secure API endpoints
+- 🔒 Secure API endpoints 
 - 🎨 Modern and intuitive user interface 
 - 📊 Efficient data management 
 - 🔄 Real-time updates 
