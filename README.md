@@ -12,7 +12,7 @@ A modern and efficient contact management system built with Java Spring Boot bac
 - 📊 Efficient data management 
 - 🔄 Real-time updates 
    
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
   
 ### Backend 
 - Java 17
